@@ -1,7 +1,7 @@
 <!-- ========== HEADER (animated waving banner) ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Ali%20Hassan%20Baloch&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Dart%20Developer&descSize=24&descAlignY=60" alt="Ali Hassan Baloch banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Ali%20Hassan%20Baloch&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Dart%20Developer&descSize=24&descAlignY=60" alt="Ali Hassan Baloch" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/alihassanbalochdev">
